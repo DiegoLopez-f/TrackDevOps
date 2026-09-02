@@ -7,6 +7,12 @@ miembros = [
         "rol": "Líder Track DevOps",
         "habilidad": "Romper producción justo antes de una presentación"
     },
+
+    {
+        "nombre": "Juan Pérez",
+        "rol": "Desarrollador Backend",
+        "habilidad": "Optimización de consultas SQL"
+    }
     # ---------------------------------------------------
     # ESTUDIANTES: Agreguen sus diccionarios aquí abajo.
     # No olviden poner una coma al final de cada diccionario.
