@@ -19,7 +19,7 @@ html_inicio = """
     </style>
 </head>
 <body>
-    <h1>🚀 Equipo del Taller DevOps 🚀</h1>
+    <h1>🚀 Equipo del Taller DevOps👌 🚀</h1>
     <div class="contenedor">
 """
 
