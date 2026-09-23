@@ -39,6 +39,7 @@ for miembro in miembros:
             <h2>{miembro.get('nombre', 'Anónimo')}</h2>
             <p><strong>🛠️ Rol:</strong> {miembro.get('rol', 'Por definir')}</p>
             <p><strong>✨ Habilidad:</strong> {miembro.get('habilidad', 'Misterio')}</p>
+            <p><strong>💻 Lenguaje:</strong> {miembro.get('lenguaje', 'No especificado')}</p>
         </div>
     """
 
