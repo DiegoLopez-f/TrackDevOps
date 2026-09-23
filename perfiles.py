@@ -20,9 +20,9 @@ miembros = [
         "lenguaje": "Python" 
     },
 ]   {
-        "nombre": "diego gaiska",
-        "rol": "lider de ciberseguridad",
-        "habilidad": "hakear los macdonals",
+        "nombre": "Gaizka Riquelme",
+        "rol": "Líder de ciberseguridad",
+        "habilidad": "Hackear los macdonals",
         "lenguaje": "Python"
         
         
