@@ -13,6 +13,7 @@ html_inicio = """
         h1 { text-align: center; color: #89b4fa; }
         .contenedor { display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; }
         .tarjeta { background-color: #313244; padding: 20px; border-radius: 10px; width: 250px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); border-top: 4px solid #f38ba8; }
+        .tarjeta:hover {transform: translateY(-5px);box-shadow: 0 8px 16px rgba(0,0,0,0.4);border-top-color: #a6e3a1;}
         .tarjeta h2 { margin-top: 0; color: #f38ba8; font-size: 1.2rem;}
         .tarjeta p { margin: 5px 0; font-size: 0.9rem; }
     </style>
