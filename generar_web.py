@@ -24,6 +24,9 @@ html_inicio = """
 
 html_fin = """
     </div>
+    <footer>
+        <p>Track DevOps estuvo aquí</p>
+    </footer>
 </body>
 </html>
 """
