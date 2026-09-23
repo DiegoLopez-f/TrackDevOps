@@ -17,9 +17,16 @@ miembros = [
         "nombre": "Mattias",
         "rol": "Líder de Metaverso",
         "habilidad": "Comer completos",
-        "lenguaje": "Python"
+        "lenguaje": "Python" 
     },
-]
+]   {
+        "nombre": "diego gaiska",
+        "rol": "lider de ciberseguridad",
+        "habilidad": "hakear los macdonals",
+        "lenguaje": "Python"
+        
+        
+    },
 Romper producción justo antes de una presentación"
     },
     # ---------------------------------------------------
